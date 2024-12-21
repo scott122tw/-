@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/financial-report/static/js/main.b9bd791f.js",
+    "index.html": "/financial-report/index.html",
+    "main.b9bd791f.js.map": "/financial-report/static/js/main.b9bd791f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b9bd791f.js"
+  ]
+}
