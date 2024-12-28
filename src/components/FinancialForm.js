@@ -215,7 +215,7 @@ function FinancialForm({ onSubmit }) {
             <Grid item xs={12} md={3}>
               <TextField
                 fullWidth
-                label="債券投資"
+                label="現金流投資"
                 name="bonds"
                 type="number"
                 value={formData.bonds}

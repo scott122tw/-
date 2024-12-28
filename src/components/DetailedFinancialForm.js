@@ -422,7 +422,7 @@ function DetailedFinancialForm({ onSubmit, initialData }) {
               <TextField
                 required
                 fullWidth
-                label="債券投資 (萬元)"
+                label="現金流投資 (萬元)"
                 name="bonds"
                 type="number"
                 value={formData.bonds}
